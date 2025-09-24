@@ -1,6 +1,6 @@
 # Course Registration System - VIT Bhopal
 
-A comprehensive web-based course registration system designed specifically for Vellore Institute of Technology (VIT), Bhopal campus. This system streamlines the course enrollment process for students, faculty, and administrative staff.
+A comprehensive web-based course registration system designed specifically for Vellore Institute of Technology (VIT), Bhopal campus. This system streamlines the course enrollment process for students.
 
 ## 🏫 About VIT Bhopal
 
@@ -18,21 +18,6 @@ Vellore Institute of Technology (VIT) Bhopal is a premier educational institutio
 - **Drop/Add Period**: Modify registrations during designated periods
 - **Grade Prerequisites**: Automatic validation of course prerequisites
 - **Fee Calculation**: Dynamic fee computation based on selected courses
-
-### For Faculty
-- **Course Management**: Create and manage course offerings
-- **Enrollment Reports**: View and export student enrollment data
-- **Capacity Management**: Set and modify course capacity limits
-- **Student Lists**: Access enrolled student information
-- **Attendance Integration**: Link with attendance management systems
-
-### For Administrators
-- **Academic Calendar**: Manage registration periods and deadlines
-- **Course Approval**: Review and approve new course offerings
-- **System Analytics**: Comprehensive reporting and analytics dashboard
-- **User Management**: Handle student and faculty account administration
-- **Bulk Operations**: Import/export course and student data
-- **Audit Trails**: Track all system changes and user activities
 
 ## 🛠 Technology Stack
 
